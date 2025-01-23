@@ -354,7 +354,7 @@ function App() {
             </div>
           </div>
           <div className="border-t border-neon-green/20 mt-12 pt-8 text-sm text-center">
-            © 2024 Contenta Studio. All rights reserved.
+            © 2025 Contenta Studio. All rights reserved.
           </div>
         </div>
       </footer>
